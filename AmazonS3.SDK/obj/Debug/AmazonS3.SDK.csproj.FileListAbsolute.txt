@@ -1,0 +1,26 @@
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.csprojResolveAssemblyReference.cache
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll.config
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.pdb
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.Core.xml
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.EC2.xml
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.S3.xml
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.SimpleDB.xml
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.dll
+C:\Users\navaduth\Desktop\IntranetProjects\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.pdb
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll.config
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.pdb
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\ResolveAssemblyReference.cache
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.pdb
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.SimpleDB.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.EC2.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.Core.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AWSSDK.S3.xml
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll.config
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.dll
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Debug\AmazonS3.SDK.pdb
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\ResolveAssemblyReference.cache
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.dll
+D:\TFS\TASLive\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Debug\AmazonS3.SDK.pdb

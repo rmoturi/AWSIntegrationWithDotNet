@@ -1,0 +1,14 @@
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AmazonS3.SDK.dll.config
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AmazonS3.SDK.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AmazonS3.SDK.pdb
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.Core.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.EC2.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.S3.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.SimpleDB.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.SimpleDB.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.EC2.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.Core.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\bin\Release\AWSSDK.S3.xml
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Release\ResolveAssemblyReference.cache
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Release\AmazonS3.SDK.dll
+D:\Takata\Intranet\1. Development\NET\ClientComponents\Server\Components\AmazonS3.SDK\AmazonS3.SDK\obj\Release\AmazonS3.SDK.pdb
